@@ -56,7 +56,7 @@ void TIM_Config(void);
   */
 int main(void)
 {
-	//test for TrueSTUDIO integrated with git
+	//test for TrueSTUDIO integrated with
   /*!< At this stage the microcontroller clock setting is already configured, 
        this is done through SystemInit() function which is called from startup
        file (startup_stm32f0xx.s) before to branch to application main.
